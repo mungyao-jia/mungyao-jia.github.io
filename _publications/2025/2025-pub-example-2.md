@@ -18,6 +18,6 @@ authors:
   - Shunchi Zhang*
   - Tianmin Shu
 links:
-  Code: https://github.com/SCAI-JHU/AutoToM
   Project Page: https://chuanyangjin.com/AutoToM/ 
+  Code: https://github.com/SCAI-JHU/AutoToM
 ---

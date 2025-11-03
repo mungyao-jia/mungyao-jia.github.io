@@ -1,7 +1,7 @@
 ---
 title:          "MedTsLLM: Medical Time Series Analysis Using Multimodal LLMs"
 date:           2025-10-16 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "IEEE Journal of Biomedical and Health Informatics"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
