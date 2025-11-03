@@ -16,7 +16,7 @@ authors:
   - Felix Parker
   - Chi Zhang
   - William Bennett
-  - Mung Yao Jia
+  - <b> Mung Yao Jia </b> 
   - James Fackler
   - Kimia Ghobadi
 links:
