@@ -21,7 +21,11 @@ github: mjia8
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    [TODO: about me]
+    Hello! I am a first-year Computer Science student at the University of Illinois Urbana-Champaign, advised by Professor Dong Wang. 
+    Previously, I completed my Master's and Bachelor's degrees in Computer Science at Johns Hopkins University, advised by Professors Kimia Ghobadi and Tianmin Shu.
+  </p>
+  <p>
+    I am broadly interested in the research topics of human-centered AI and the intersection of AI and human cognition/reasoning. 
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
