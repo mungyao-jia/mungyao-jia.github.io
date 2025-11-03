@@ -1,6 +1,6 @@
 ---
 title:          "MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis"
-date:           2025-08-14 00:01:00 +0800
+date:           2024-08-14 00:01:00 +0800
 selected:       true
 pub:            "Machine Learning for Healthcare Conference."
 # pub_pre:        "Submitted to "
