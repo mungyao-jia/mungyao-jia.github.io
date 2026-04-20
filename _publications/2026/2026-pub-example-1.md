@@ -1,6 +1,6 @@
 ---
 title:          "Dynamic Compensation Can Enhance User Engagement by Triggering Sensitivity to Financial Losses in Crowd-sourced Studies"
-date:           2026-08-14 00:01:00 +0800
+date:           2026-04-13 00:01:00 +0800
 selected:       true
 pub:            "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems"
 # pub_pre:        "Submitted to "
