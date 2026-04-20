@@ -20,5 +20,6 @@ authors:
   - James Fackler
   - Kimia Ghobadi
 links:
+  Paper: https://arxiv.org/abs/2408.07773 
   Code: https://github.com/flixpar/med-ts-llm
 ---
