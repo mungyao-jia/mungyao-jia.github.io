@@ -9,7 +9,7 @@ pub_post:       'Under review.'
 pub_date:       "2026"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
-cover:          /assets/images/covers/cover_inSubmission.png
+cover:          /assets/images/covers/cover_lossaversion.png
 authors:
   - Aryan Ramchandra Kapadia*
   - Niharika Bhattacharjee*
