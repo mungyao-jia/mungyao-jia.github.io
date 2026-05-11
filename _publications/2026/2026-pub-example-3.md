@@ -2,7 +2,7 @@
 title:          "Are Gains Quiet and Losses Loud? Emotional Responses to Financial Booms and Crashes Online"
 date:           2026-04-15 00:01:00 +0800
 selected:       false 
-pub:            "Digital Minds Workshop (DM) @ ICWSM 2026"
+pub:            "Digital Minds Workshop (DM) @ ICWSM"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Honourable Mention Award</span>'
