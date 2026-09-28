@@ -50,6 +50,12 @@ education:
   position: B.S. in Computer Science
   date: Aug. 2020 - Dec. 2023
 
+experience:
+- name: Amazon 
+#   logo: /assets/images/badges/amazon.png
+  position: Applied Scientist Intern
+  date: May 2026 - Aug. 2026
+
 awards:
 - name: Amazon AI PhD Fellowship
   date: 2025 & 2026
