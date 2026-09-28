@@ -12,8 +12,8 @@ abstract: >-
 cover:          /assets/images/covers/cover_FIBB.png
 authors:
   - <b> Mung Yao Jia</b> 
-  - Aryan Ramchandra Kapadia*
   - Niharika Bhattacharjee*
+  - Aryan Ramchandra Kapadia*
   - Dong Wang 
 links:
   Paper: https://dl.acm.org/doi/full/10.1145/3834580.3838743
