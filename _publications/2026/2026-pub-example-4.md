@@ -1,8 +1,8 @@
 ---
 title:          "FIBB: Capturing False Information Beliefs and Behaviors Across Physical and Online Environments"
 date:           2026-04-15 00:01:00 +0800
-selected:       false 
-pub:            "HCOMP 2026"
+selected:       true 
+pub:            "HCOMP"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Honourable Mention Award</span>'
