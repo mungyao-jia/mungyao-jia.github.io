@@ -52,7 +52,7 @@ education:
 
 experience:
 - name: Amazon 
-#   logo: /assets/images/badges/amazon.png
+  logo: /assets/images/badges/amazon.png
   position: Applied Scientist Intern
   date: May 2026 - Aug. 2026
 
